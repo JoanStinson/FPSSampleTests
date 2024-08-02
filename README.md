@@ -23,7 +23,12 @@ Used Unity's FPS game sample as a base to write unit tests.
 </p>
 
 <p align="center">
-  <img height="350" src="https://github.com/JoanStinson/FPSSampleTests/blob/master/preview.PNG">
+  <img height="350" src="https://github.com/JoanStinson/FPSSampleTests/blob/master/UserImages/preview.PNG">
 </p>
 
 ## 🔍 Unit Tests
+> Writing unit tests is crucial because it ensures individual components of the code work as expected, helping to catch and fix bugs early in the development process. Additionally, unit tests facilitate code maintenance and refactoring by providing a safety net that verifies the functionality remains intact despite changes.
+
+<p align="center">
+  <img src="https://github.com/JoanStinson/FPSSampleTests/blob/master/UserImages/tests.PNG">
+</p>
